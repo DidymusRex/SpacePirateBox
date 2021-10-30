@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 HandsOnExamples
 __pycache__
 
+=======
+.pio
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+>>>>>>> 2aea36399a31d2a2e3b0b26b109eec0cabcd2747
